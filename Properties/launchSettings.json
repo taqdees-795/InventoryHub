@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InventoryHub": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
